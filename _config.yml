@@ -1,3 +1,4 @@
+{% raw %}{% seo %}{% endraw %}
 # Site settings
 title: Muhammad Zidan Fatonie
 email: mzidanfatonie@gmail.com
@@ -70,6 +71,3 @@ defaults:
       type: "posts"
     values:
       permalink: ""
-
-
-{% raw %}{% seo %}{% endraw %}
