@@ -28,7 +28,7 @@ color:
   primary: ff9900	#ff9900
   primary-rgb: "255, 153, 0" #"255, 165, 0"
   secondary: 0066ff #0066ff
-  secondary-dark: 233140 #A2122F
+  secondary-dark: 000099 #000099
 
 # Footer settings
 footer:
