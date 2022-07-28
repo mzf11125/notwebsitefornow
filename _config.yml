@@ -35,7 +35,7 @@ footer:
   copyright: Muhammad Zidan Fatonie
   location: Location
   social: Around the Web
-  credits: School
+  credits: Phone
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -57,7 +57,7 @@ address:
   - line: San Francisco, CA
 
 # Credits content
-credits: 'Wesmoor High School.'
+credits: '+1 (415) 5288 158'
 
 # Build settings
 markdown: kramdown
